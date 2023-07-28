@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-28T06:51:24.250Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="i5_vhFUb2Bb5_UDT3puG" version="21.6.5" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-07-28T06:55:10.036Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="hBfCbPFEdynj2aBAqsTd" version="21.6.5" type="github" pages="4">
   <diagram name="페이지-1" id="fw00KT8Gi9KflS2xxoFm">
     <mxGraphModel dx="1918" dy="2655" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -303,7 +303,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="페이지-2의 복사본의 복사본" id="hFS6Wq9J5oJ_y7qNa81h">
-    <mxGraphModel dx="1199" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="403" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="mB3Pu-S8j3PsSfIMe91A-0" />
         <mxCell id="mB3Pu-S8j3PsSfIMe91A-1" parent="mB3Pu-S8j3PsSfIMe91A-0" />
@@ -538,7 +538,7 @@
         <mxCell id="OPiGYGBKzskxqVXKUwyA-11" value="수강" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="mB3Pu-S8j3PsSfIMe91A-1">
           <mxGeometry x="710" y="770" width="170" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="OPiGYGBKzskxqVXKUwyA-12" value="+수강신청번호(AK)&lt;br&gt;+학번(FK,PK)&lt;br&gt;+과목코드(FK,PK)&lt;br&gt;+수강신청일&lt;br&gt;+ 상속형 PK&lt;br&gt;+여기서는 PK를 처리를&lt;br&gt;&amp;nbsp;해야함&lt;br&gt;한명의 학생이 같은과목을 &lt;br&gt;여러번 중복해서&lt;br&gt;수강할수 없기 때문" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" vertex="1" parent="OPiGYGBKzskxqVXKUwyA-11">
+        <mxCell id="OPiGYGBKzskxqVXKUwyA-12" value="+수강신청번호(AK)&lt;br&gt;+학번(FK,PK)&lt;br&gt;+과목코드(FK,PK)&lt;br&gt;+수강신청일&lt;br&gt;+ 상속형 PK&lt;br&gt;+여기서는 PK 처리를&lt;br&gt;&amp;nbsp;해야함&lt;br&gt;한명의 학생이 같은과목을 &lt;br&gt;여러번 중복해서&lt;br&gt;수강할수 없기 때문" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" vertex="1" parent="OPiGYGBKzskxqVXKUwyA-11">
           <mxGeometry y="50" width="170" height="150" as="geometry" />
         </mxCell>
         <mxCell id="OPiGYGBKzskxqVXKUwyA-13" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="mB3Pu-S8j3PsSfIMe91A-1">
